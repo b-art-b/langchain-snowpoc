@@ -9,9 +9,9 @@ setup(
     author_email="124384994+b-art-b@users.noreply.github.com",
     url="https://github.com/b-art-b/langchain-snowpoc",
     install_requires=[
-        "langchain=0.1.12",
-        "langchain-core=0.1.32",
-        "pyarrow=15.0.2",
+        "langchain==0.1.12",
+        "langchain-core==0.1.32",
+        "pyarrow==15.0.2",
         "snowflake-connector-python==3.7.1",
         "snowflake-ml-python==1.3.0",
         "snowflake-snowpark-python==1.13.0",
